@@ -1,4 +1,4 @@
-# vue-app
+# laravel-vue-admin-panel
 
 ## Project setup
 ```
